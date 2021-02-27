@@ -1,0 +1,7 @@
+{
+  "name": "desafio-itix",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
