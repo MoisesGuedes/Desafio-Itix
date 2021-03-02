@@ -16,9 +16,8 @@
 ## Sobre o projeto
 Um pouco mais além do que apenas desenvolver a interface
 <br>
-<div align="center">
 ![ezgif-2-7af9365cce28](https://user-images.githubusercontent.com/50385545/109586555-2cf02580-7ae4-11eb-8314-94714b8a6f60.gif)
-</div>
+
 
 
 
